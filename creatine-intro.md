@@ -15,3 +15,5 @@
 | Form choice and dosing                    | Creatine monohydrate is the most studied, effective, and cost‑efficient form; 3–5 g per day is sufficient without loading                                      | Alternative forms (HCl, buffered, nitrate, ethyl ester) show no proven superiority in uptake, efficacy, or safety                                      | Comparative reviews and medical summaries favoring monohydrate; no long‑term advantage for other forms.                                           |
 
 Bottom line for a healthy 38‑year‑old, 82 kg, trained male**: Long‑term daily creatine monohydrate at 3–5 g is supported as safe, with small to moderate benefits for strength and lean mass, possible cognitive resilience under high load or poor sleep, and no evidence of health trade‑offs in healthy users. If you want to minimize any nuisance effects, skip loading, split the daily dose, and keep hydration on point.
+
+[References](./references.md)
